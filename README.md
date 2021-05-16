@@ -1,2 +1,3 @@
-# Import_JabRef_into_Citavi
-This is a helper script and manual to migrate your bibliographic data from JabRef to Citavi.
+GitHub is not supported by me.
+
+Please find the repository on ![GitHub Logo](https://docs.codeberg.org/assets/images/logo/codeberg-favicon.svg) __Codeberg__ at https://codeberg.org/buhtz/Import_JabRef_into_Citavi .
